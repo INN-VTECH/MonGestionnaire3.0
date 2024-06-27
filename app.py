@@ -42,7 +42,7 @@ app.config['UPLOAD_FOLDER'] = UPLOAD_FOLDER
 
 # conn = get_db_connection()
 cursor = conn.cursor()
-
+# test001
 # hashed_password = bcrypt.generate_password_hash('kra1234')
 # print(hashed_password)
 
